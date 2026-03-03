@@ -106,8 +106,8 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting!-💎-C9A84C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-💎-white?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>© 2026 Lindiwe Song
+  <i>© 2026 Lindiwe Songelwa
