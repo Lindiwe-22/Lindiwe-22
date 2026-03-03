@@ -14,7 +14,7 @@
   <a href="https://www.credly.com/users/samnkelisiwe-lindiwe-songelwa" target="_blank">
     <img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
-  <a href="mailto:sl.songelwa@hotmail.co.za">
+  <a href="/cdn-cgi/l/email-protection#32415e1c415d5c55575e4553725a5d465f535b5e1c515d1c4853">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </p>
@@ -79,9 +79,19 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://readme-stats-rouge-three.vercel.app/api?username=Lindiwe-22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-115-2C3E7A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Streak-1_day-F39C12?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-4_days-1E8C5A?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Since-February_2022-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-5_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -96,9 +106,8 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Lindiwe-22&icon=5&color=6&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-💎-C9A84C?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <i>© 2026 Lindiwe Songelwa · Gauteng, South Africa 🇿🇦</i>
-</p>
+  <i>© 2026 Lindiwe Song
