@@ -33,14 +33,24 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Data Science Projects
 
 | Project | Description | Live |
 |---------|-------------|------|
 | 💎 **Diamonds Are Forever** | Full-stack ML study on the global diamond industry — price forecasting (R²=0.9997), 5 buyer archetypes, 73.8% lab-grown price collapse quantified | [🚀 Dashboard](https://diamonds-decoded.streamlit.app) |
 | ⛏️ **Mining Quality Intelligence** | Predicts silica quality failures in an iron ore plant hours before they occur — XGBoost + Neural Network on 737K sensor readings | [🚀 Dashboard](https://lindiwe-22-mining-quality-dashboard-app.streamlit.app) |
+| 🏦 **SA Bank Trust Score** | Data-driven consumer intelligence dashboard scoring South Africa's six major banks across complaints, regulatory sanctions and public sentiment — live multi-page Streamlit app | [🚀 Dashboard](https://sa-bank-trust-score.streamlit.app) |
 | 🔍 **SA Crime Intelligence Report** | Interrogates Q3 2025/26 SAPS crime stats against SAMRC femicide data — ARIMA forecasting, OLS regression, anomaly detection | [📓 Notebook](https://github.com/Lindiwe-22/South-African-Crime-Intelligence-Report) |
-| 🎵 **Tyla Grammy Sentiment Analysis** | NLP study of Tyla's historic Grammy triumph — 82% positive sentiment across 20+ countries via VADER + TextBlob dual-model validation | [📓 Notebook](https://github.com/Lindiwe-22/tyla-grammy-nlp-analysis) |
+| 🎵 **Tyla Grammy Sentiment Analysis** | NLP study of Tyla's historic Grammy triumph — 82% positive sentiment across 20+ countries via VADER + TextBlob dual-model validation | [📓 Notebook](https://github.com/Lindiwe-22/Tyla-Grammy-NLP-Analysis) |
+
+---
+
+## ⚙️ Featured DevOps Projects
+
+| Project | Description | Pipelines |
+|---------|-------------|-----------|
+| 🏦 **SA Bank Trust Score — DevOps Pipeline** | Production-grade CI/CD pipeline on the SA Bank Trust Score app — 4 automated GitHub Actions workflows covering app health, data quality, scheduled freshness monitoring and Docker build checks | [⚙️ View Pipelines](https://github.com/AZ400-DevOps-Portfolio/SA-Bank-Trust-Score/actions) |
+| 🎵 **Tyla Sentiment Tracker** | Automated fortnightly sentiment tracking pipeline — YouTube comments analysed with VADER & TextBlob on a scheduled GitHub Actions workflow, tracking public sentiment trends without manual intervention | [⚙️ View Pipelines](https://github.com/AZ400-DevOps-Portfolio/Tyla-Sentiment-Tracker/actions) |
 
 ---
 
@@ -72,10 +82,12 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-**Deployment**
+**Deployment & DevOps**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -90,7 +102,7 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Since-February_2022-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-5_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-7_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
