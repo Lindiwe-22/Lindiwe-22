@@ -23,10 +23,50 @@
 
 ## 🙋🏾‍♀️ About Me
 
-I thrive on discovering unconventional solutions to complex challenges. By weaving through the rich tapestry of data, I uncover patterns that transform obstacles into opportunities — and I bring a storyteller's touch to every project. I don't just present data; I guide audiences through narratives that captivate and conclude with clarity.
+I build data tools that make complex systems legible — for the people
+who live and work inside them.
+
+My work sits at the intersection of **data engineering**, **machine learning**, and **civic accountability**, with a focus on industries that shape South African life: mining, banking, and social and economic accountability.
+
+---
+
+## 🔭 What I'm building
+
+| Project | What it does |
+|---|---|
+| [SA Bank Trust Score](your-link) | Scores South Africa's six major banks on trust, transparency & consumer fairness |
+| [Diamonds Decoded](your-link) | Demystifies diamond price forecasting using ML — from mine to market |
+
+---
+
+## 🛠️ How I work
+
+**Languages & tools**
+`Python` `SQL` `Streamlit` `Scikit-learn` `XGBoost` `Pandas` `Plotly`
+
+**Infrastructure & DevOps**
+`GitHub Actions` `Azure Pipelines` `Docker` `Azure Key Vault` `Bicep`
+
+**Data sources I work with**
+Open government data · SARB · Industry research · Public financial records
+
+---
+
+## 📌 What drives me
+
+South Africa has no shortage of data.
+What it needs are people who can turn that data into something useful tools that give communities, consumers, and decision-makers. A clearer picture of the systems they're part of.
+
+That's the work I show up for.
 
 - 🔭 **Currently working on:** A SQL + Tableau mining production intelligence dashboard using Stats SA data on Google BigQuery
-- 🌱 **Currently learning:** SQL on Google BigQuery · Tableau Public · Cloud-based data engineering
+- 🌱 **Currently learning:**
+- SQL on Google BigQuery
+- Tableau Public
+- Cloud-based data engineering
+- AZ-400 DevOps Engineering (Microsoft certification in progress)
+- Azure infrastructure as code with Bicep
+- Application monitoring with Azure Application Insights
 - 👯 **Open to collaborating on:** Data science projects with real-world social or industrial impact — particularly South African crime, mining, public health, or music and culture analytics
 - 🤝 **Looking for help with:** Becoming a full-stack data scientist
 - ⚡ **Fun fact:** I love music, I'm passionate about social justice, and I have a very sharp sense of humour
@@ -104,6 +144,11 @@ I thrive on discovering unconventional solutions to complex challenges. By weavi
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Projects-7_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
+
+## 📫 Let's connect
+[LinkedIn](your-linkedin-url) · [Portfolio](your-portfolio-url)
 
 ---
 
