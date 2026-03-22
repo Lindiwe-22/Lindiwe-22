@@ -60,13 +60,7 @@ What it needs are people who can turn that data into something useful tools that
 That's the work I show up for.
 
 - 🔭 **Currently working on:** A SQL + Tableau mining production intelligence dashboard using Stats SA data on Google BigQuery
-- 🌱 **Currently learning:**
-- SQL on Google BigQuery
-- Tableau Public
-- Cloud-based data engineering
-- AZ-400 DevOps Engineering (Microsoft certification in progress)
-- Azure infrastructure as code with Bicep
-- Application monitoring with Azure Application Insights
+- 🌱 **Currently learning:** SQL on Google BigQuery. Tableau Public. Cloud-based data engineering. AZ-400 DevOps Engineering (Microsoft certification in progress). Azure infrastructure as code with Bicep. Application monitoring with Azure Application Insights
 - 👯 **Open to collaborating on:** Data science projects with real-world social or industrial impact — particularly South African crime, mining, public health, or music and culture analytics
 - 🤝 **Looking for help with:** Becoming a full-stack data scientist
 - ⚡ **Fun fact:** I love music, I'm passionate about social justice, and I have a very sharp sense of humour
