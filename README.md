@@ -129,14 +129,14 @@ That's the work I show up for.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Contributions-115-2C3E7A?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current_Streak-1_day-F39C12?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Longest_Streak-4_days-1E8C5A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Current_Streak-7_day-F39C12?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-14_days-1E8C5A?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Since-February_2022-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-7_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Projects-8_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
