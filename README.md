@@ -31,14 +31,14 @@ My work sits at the intersection of **data engineering**, **machine learning**, 
 ---
 
 ## 🔭 What I'm building
-
 | Project | What it does |
 |---|---|
 | [SA Bank Trust Score](your-link) | Scores South Africa's six major banks on trust, transparency & consumer fairness |
-| [Diamonds Decoded](your-link) | Demystifies diamond price forecasting using ML — from mine to market |
+| [Who Really Gets the Money?](your-link) | A public interest analysis of R69.5B in SA development finance — inequality, ML prediction, and anomaly detection across IDC and NEF funding |
+```
 
 ---
-
+```
 ## 🛠️ How I work
 
 **Languages & tools**
@@ -49,14 +49,13 @@ My work sits at the intersection of **data engineering**, **machine learning**, 
 
 **Data sources I work with**
 Open government data · SARB · Industry research · Public financial records
-
+```
 ---
-
+```
 ## 📌 What drives me
 
 South Africa has no shortage of data.
 What it needs are people who can turn that data into something useful tools that give communities, consumers, and decision-makers. A clearer picture of the systems they're part of.
-
 That's the work I show up for.
 
 - 🔭 **Currently working on:** A SQL + Tableau mining production intelligence dashboard using Stats SA data on Google BigQuery
@@ -142,7 +141,7 @@ That's the work I show up for.
 ---
 
 ## 📫 Let's connect
-[LinkedIn](your-linkedin-url) · [Portfolio](your-portfolio-url)
+[LinkedIn]https://www.linkedin.com/in/lindiwe-songelwa/ · [Portfolio]https://lindiwe-22.github.io/Portfolio-Website/
 
 ---
 
