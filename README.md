@@ -37,8 +37,8 @@ My work sits at the intersection of **data engineering**, **machine learning**, 
 | [Who Really Gets the Money?](https://github.com/Lindiwe-22/SA-IDC-Inequality) | A public interest analysis of R69.5B in SA development finance — inequality, ML prediction, and anomaly detection across IDC and NEF funding |
 ```
 
----
 ```
+---
 ## 🛠️ How I work
 
 **Languages & tools**
