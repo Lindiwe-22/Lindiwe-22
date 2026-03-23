@@ -30,11 +30,11 @@ My work sits at the intersection of **data engineering**, **machine learning**, 
 
 ---
 
-## 🔭 What I'm building
+## 🔭 What I've built
 | Project | What it does |
 |---|---|
-| [SA Bank Trust Score](your-link) | Scores South Africa's six major banks on trust, transparency & consumer fairness |
-| [Who Really Gets the Money?](your-link) | A public interest analysis of R69.5B in SA development finance — inequality, ML prediction, and anomaly detection across IDC and NEF funding |
+| [SA Bank Trust Score](https://github.com/Lindiwe-22/SA-Bank-Trust-Score) | Scores South Africa's six major banks on trust, transparency & consumer fairness |
+| [Who Really Gets the Money?](https://github.com/Lindiwe-22/SA-IDC-Inequality) | A public interest analysis of R69.5B in SA development finance — inequality, ML prediction, and anomaly detection across IDC and NEF funding |
 ```
 
 ---
@@ -141,7 +141,7 @@ That's the work I show up for.
 ---
 
 ## 📫 Let's connect
-[LinkedIn]https://www.linkedin.com/in/lindiwe-songelwa/ · [Portfolio]https://lindiwe-22.github.io/Portfolio-Website/
+[LinkedIn](https://www.linkedin.com/in/lindiwe-songelwa/) · [Portfolio](https://lindiwe-22.github.io/Portfolio-Website/)
 
 ---
 
