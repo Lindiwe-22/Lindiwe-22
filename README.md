@@ -50,8 +50,9 @@ My work sits at the intersection of **data engineering**, **machine learning**, 
 **Data sources I work with**
 Open government data · SARB · Industry research · Public financial records
 ```
----
+
 ```
+---
 ## 📌 What drives me
 
 South Africa has no shortage of data.
