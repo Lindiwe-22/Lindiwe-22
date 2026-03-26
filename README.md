@@ -128,16 +128,15 @@ That's the work I show up for.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Contributions-115-2C3E7A?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Current_Streak-7_day-F39C12?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Longest_Streak-14_days-1E8C5A?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://streak-stats.demolab.com?user=Lindiwe-22&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0F172A&ring=F39C12&fire=F39C12&currStreakLabel=F39C12" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Active_Since-February_2022-0F172A?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Projects-8_and_counting-E74C3C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Lindiwe-22&query=public_repos&label=Public%20Repos&color=E74C3C&style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
