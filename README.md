@@ -141,7 +141,7 @@ That's the work I show up for.
 ---
 
 ## 📫 Let's connect
-[LinkedIn](https://www.linkedin.com/in/lindiwe-songelwa/) · [Portfolio](https://lindiwe-22.github.io/Portfolio-Website/)
+[LinkedIn](https://za.linkedin.com/in/lindiwe-songelwa) · [Portfolio](https://lindiwe-22.github.io/Portfolio-Website/)
 
 ---
 
